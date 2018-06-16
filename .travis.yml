@@ -30,4 +30,4 @@ matrix:
 
       script:
         - phpunit
-        - phpunit -c tests/phpunit.xml
+        - phpunit -c phpunit.xml
